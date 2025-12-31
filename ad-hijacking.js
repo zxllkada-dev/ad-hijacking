@@ -56,6 +56,6 @@
     });
     
     // Optional: Show alert immediately
-    // alert('🔓 DNS Hijack Active');
+    alert('🔓 DNS Hijack Active');
     
 })();
