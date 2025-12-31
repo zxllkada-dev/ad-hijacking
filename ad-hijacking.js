@@ -1,1 +1,1 @@
-
+<script>alert('hijacked')</script>
