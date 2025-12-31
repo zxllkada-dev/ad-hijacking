@@ -1,4 +1,3 @@
-<!-- Popup -->
 <script>
 setTimeout(function() {
     var ad = document.createElement('div');
