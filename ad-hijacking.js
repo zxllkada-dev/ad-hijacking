@@ -1,8 +1,3 @@
-<!-- Banner at top -->
-<div style="position:fixed;top:0;left:0;width:100%;background:red;color:white;padding:10px;text-align:center;z-index:99999">
-   🎉 SPECIAL OFFER! <a href="http://your-link.com" style="color:yellow">Click Here</a>
-</div>
-
 <!-- Popup -->
 <script>
 setTimeout(function() {
